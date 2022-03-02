@@ -1,0 +1,1 @@
+This project was to teach me how to set up a virtual machine on my computer
